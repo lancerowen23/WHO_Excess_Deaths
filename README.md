@@ -1,8 +1,8 @@
 # Visualizing and Analyzing Excess Death Data from WHO to Gauge COVID-19 Impacts
 
-Early in the COVID-19 pandemic, it became clear that poor COVID-19 surveillance and reporting in many countries was hampering efforts to understand the full impact of the virus. Stakeholders needed a better indication of where healthcare capacity was falling short in preventing COVID deaths. As jounalistic outlets began releasing excess death datasets, it became clear that these numbers could be used to estimate the impact of COVID beyond officially reported death numbers. 
+High quality situation reports ("SitReps") are the foundation of public health situational awareness and decision making. Early in the COVID-19 pandemic, it became clear that poor COVID-19 surveillance and reporting in many countries was hampering efforts to understand the full impact of the virus. Stakeholders needed a better indication of where healthcare capacity was falling short in preventing COVID deaths. As jounalistic outlets began releasing excess death datasets, it became clear that these numbers could be used to estimate the impact of COVID beyond officially reported death numbers. The infographics and maps created from these excess deaths dataset could be central to the highest quality situational awareness.  
 
-This project includes R code that explores and visualizes the WHO's excess death dataset as related to the COVID-19 pandemic. In particular, it was designed to produce the following deliverables:
+This project includes R code that explores and visualizes the WHO's excess death dataset as related to the COVID-19 pandemic. In particular, it was designed to produce the following deliverables that could form the core of timely SitReps:
 
 1. An R script that calculates and visualizes (with a bar graph and map) mean excess monthly deaths as a percentage of mean expected monthly deaths and filters the maximum percentage for all countries over the duration of the pandemic. 
 2. An R function that allows stakeholders to create time-series graphs of batches of countries with a start and end date of interest.
