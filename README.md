@@ -21,6 +21,6 @@ A look at the outputs of the time-series function shows telling differences betw
 
 ![Time_Series](Excess_Deaths_TimeSeries.png)
 
-Taking a longer view reveals that some regions had surges in tandem between countires during the Summer and early Autumn of 2021, although the severity of the excess death surges differed from country to country. While Laos, Saudi Arabia, and Canada did not experience as intense a surge as other countries in their respective regions, Malaysia, Jordan, and Mexico each experienced levels of much higher magnitude.  
+Taking a longer view reveals that some regions had surges in tandem between countires during the Summer and early Autumn of 2021, although the severity of the excess death surges differed from country to country. While Laos, Saudi Arabia, and Canada did not experience as intense a surge as other countries in their respective regions, Malaysia and Mexico each experienced levels of much higher relative magnitude.  
 
 ![Time_Series](Excess_Deaths_TimeSeries_2.png)
