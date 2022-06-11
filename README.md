@@ -9,8 +9,10 @@ This project includes R code that explores and visualizes the WHO's excess death
  
 Below are some examples of deliverables from this project, including a graph and map of the countries reporting the highest monthly percentage of excess deaths relative to expected deaths over the entire pandemic duration (up to March 2022) as well as two trios of time-series visualizations from the R excess deaths percentage time series function I wrote. 
 
+The global map indicates with clarity that the highest impact of excess deaths was felt in South America, with Peru, Bolivia, and Ecuador among the countries most affected.
 ![Map](Excess_Deaths_Map.png)
 
+An accompanying bar graph with annotations indicating the month of the highest excess death percentage offers a temporal perspective. While the surges in excess deaths in South America occurred relatively early during the pandemic (Spring through Summer 2020), other countries with high excess percentages (e.g. India, Oman, and Mexico) did not see their largest surges until the Summer of 2021. 
 ![Bars](Excess_Deaths_Pcts.png)
 
 ![Time_Series](Excess_Deaths_TimeSeries.png)
