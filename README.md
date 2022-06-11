@@ -10,11 +10,17 @@ This project includes R code that explores and visualizes the WHO's excess death
 Below are some examples of deliverables from this project, including a graph and map of the countries reporting the highest monthly percentage of excess deaths relative to expected deaths over the entire pandemic duration (up to March 2022) as well as two trios of time-series visualizations from the R excess deaths percentage time series function I wrote. 
 
 The global map indicates with clarity that the highest impact of excess deaths was felt in South America, with Peru, Bolivia, and Ecuador among the countries most affected.
+
 ![Map](Excess_Deaths_Map.png)
 
 An accompanying bar graph with annotations indicating the month of the highest excess death percentage offers a temporal perspective. While the surges in excess deaths in South America occurred relatively early during the pandemic (Spring through Summer 2020), other countries with high excess percentages (e.g. India, Oman, and Mexico) did not see their largest surges until the Summer of 2021. 
+
 ![Bars](Excess_Deaths_Pcts.png)
 
+A look at the outputs of the time-series function shows telling differences between countries in specific regions during the first several months of the pandemic. Early on, Peru and Ecuador were outliers in South America, while Sweden was a clear outlier in Scandinavia (owing to its more relaxed mitigation measures). These visuals also show that excess death percentages also dipped into negative territory for several countries, likely due to strict mitigation measures that reduced other common causes of death. 
+
 ![Time_Series](Excess_Deaths_TimeSeries.png)
+
+Taking a longer view reveals that some regions had surges in tandem between countires during the Summer and early Autumn of 2021, although the severity of the excess death surges differed from country to country. While Laos, Saudi Arabia, and Canada did not experience as intense a surge as other countries in their respective regions, Malaysia, Jordan, and Mexico each experienced levels of much higher magnitude.  
 
 ![Time_Series](Excess_Deaths_TimeSeries_2.png)
