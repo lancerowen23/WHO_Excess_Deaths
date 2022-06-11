@@ -4,3 +4,5 @@ This project includes R code that explores and visualizes the WHO's excess death
 ![Map](Excess_Deaths_Map.png)
 
 ![Bars](Excess_Deaths_Pcts.png)
+
+![Time_Series](Excess_Deaths_TimeSeries.png)
